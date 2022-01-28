@@ -26,6 +26,7 @@ A repository of available tutorials, datasets, papers, and books for NLP
 
 2. Google word2vec: https://code.google.com/archive/p/word2vec/
 
+3. NLTK: https://www.nltk.org/
 
 ## Datasets
 
