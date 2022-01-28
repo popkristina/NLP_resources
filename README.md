@@ -2,14 +2,8 @@
 
 A repository of available tutorials, datasets, papers, and books for NLP
 
-## Tutorials
-
-1. Deep Learning for NLP: http://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf 
 
 
-## Repositories
-
-1. NLP papers: https://github.com/ylqfp/awesome-deep-nlp  
 
 
 ## Academic NLP groups
@@ -24,11 +18,27 @@ A repository of available tutorials, datasets, papers, and books for NLP
 
 1. Microsoft: https://www.microsoft.com/en-us/research/group/natural-language-processing/
 
+2. IBM: https://researcher.watson.ibm.com/researcher/view_group.php?id=147
 
 ## Tools
 
 1. SpaCy: https://spacy.io/   
 
+2. Google word2vec: https://code.google.com/archive/p/word2vec/
+
 
 ## Datasets
 
+
+## Repositories
+
+1. NLP papers: https://github.com/ylqfp/awesome-deep-nlp  
+
+2. Deep Learning for NLP resources: https://github.com/shashankg7/Deep-Learning-for-NLP-Resources
+
+
+## Tutorials
+
+1. Deep Learning for NLP: http://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf 
+
+2. Neural Machine Translation tutorial (K. Chou,NYU & Chris Manning, Stanford): https://sites.google.com/site/acl16nmt/tutorial
