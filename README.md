@@ -18,6 +18,17 @@ A repository of available tutorials, datasets, papers, and books for NLP
 
 2. Berkley: http://nlp.cs.berkeley.edu/index.shtml  
 
+3. Carnegie Mellon University: http://www.cs.cmu.edu/~nasmith/nlp-cl.html
 
 ## Industrial NLP research groups
+
+1. Microsoft: https://www.microsoft.com/en-us/research/group/natural-language-processing/
+
+
+## Tools
+
+1. SpaCy: https://spacy.io/   
+
+
+## Datasets
 
