@@ -9,8 +9,15 @@ A repository of available tutorials, datasets, papers, and books for NLP
 
 ## Repositories
 
+1. NLP papers: https://github.com/ylqfp/awesome-deep-nlp  
+
 
 ## Academic NLP groups
 
 1. Stanford: http://nlp.stanford.edu/  
+
+2. Berkley: http://nlp.cs.berkeley.edu/index.shtml  
+
+
+## Industrial NLP research groups
 
