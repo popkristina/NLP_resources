@@ -42,3 +42,6 @@ A repository of available tutorials, datasets, papers, and books for NLP
 1. Deep Learning for NLP: http://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf 
 
 2. Neural Machine Translation tutorial (K. Chou,NYU & Chris Manning, Stanford): https://sites.google.com/site/acl16nmt/tutorial
+
+10. Understanding LSTMs: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
