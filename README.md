@@ -28,6 +28,8 @@ A repository of available tutorials, datasets, papers, and books for NLP
 
 3. NLTK: https://www.nltk.org/
 
+4. FlairNLP: https://github.com/flairNLP/flair
+
 ## Datasets
 
 
