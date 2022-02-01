@@ -30,6 +30,8 @@ A repository of available tutorials, datasets, papers, and books for NLP
 
 4. FlairNLP: https://github.com/flairNLP/flair
 
+5. AllenNLP: https://github.com/allenai/allennlp
+
 ## Datasets
 
 
