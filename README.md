@@ -1,6 +1,6 @@
 # Natural Language Processing Resources
 
-A repository of available tutorials, datasets, papers, and books for NLP
+A repository of available tutorials, datasets, papers, and books for NLP which I collected from here and there.
 
 
 
