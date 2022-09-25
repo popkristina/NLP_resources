@@ -41,12 +41,16 @@ A repository of available tutorials, datasets, papers, and books for NLP which I
 
 2. Deep Learning for NLP resources: https://github.com/shashankg7/Deep-Learning-for-NLP-Resources
 
+3. The official 'Transformers' repository: https://github.com/huggingface/transformers
+
 
 ## Tutorials
 
 1. Deep Learning for NLP: http://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf 
 
 2. Neural Machine Translation tutorial (K. Chou,NYU & Chris Manning, Stanford): https://sites.google.com/site/acl16nmt/tutorial
+
+3. Fine-tuning BERT for sentiment analysis: https://skimai.com/fine-tuning-bert-for-sentiment-analysis/
 
 10. Understanding LSTMs: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
