@@ -14,6 +14,10 @@ A repository of available tutorials, datasets, papers, and books for NLP which I
 
 3. Carnegie Mellon University: http://www.cs.cmu.edu/~nasmith/nlp-cl.html
 
+## University Courses
+
+1. An amazing Stanford course on large language models: https://stanford-cs324.github.io/winter2022/lectures/introduction/
+
 ## Industrial NLP research groups
 
 1. Microsoft: https://www.microsoft.com/en-us/research/group/natural-language-processing/
